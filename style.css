@@ -1,7 +1,3 @@
-/* Fehér #f8f7f3     Kék: #1a24fb */
-/* 400 regular 700 bold */
-
-
 * {
   margin: 0;
   padding: 0;
@@ -24,8 +20,8 @@ body {
   height: 40px;
   padding: 0 20px 0 20px;
   color: #f8f7f3;
-  /* position: sticky;
-  top: 0; */
+  position: sticky;
+  top: 0;
 
   display: flex;
   justify-content: space-between;
@@ -82,7 +78,6 @@ padding: 8 0 0 0;
   font-size: 12px;
   letter-spacing: 0.2em;
   font-weight: 400;
-  /* why not work? */
   text-transform: uppercase;
 }
 
